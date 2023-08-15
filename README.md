@@ -2,9 +2,8 @@
 <h3 align="center">A passionate Software and web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamalshowgit&label=Profile%20views&color=0e75b6&style=flat" alt="kamalshowgit" /> </p>
-<img align="right" alt="cover-git" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamalshowgit" alt="kamalshowgit" /></a> </p>
-
+<img align="right" alt="cover-git" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 - 🔭 I’m currently working on [Sonwel](https://kamaliitkgp.pythonanywhere.com/)
 
 - 🌱 I’m currently learning **CS50’s Introduction to Artificial Intelligence with Python**
