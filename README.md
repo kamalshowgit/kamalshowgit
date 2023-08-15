@@ -5,9 +5,9 @@
 <p align="centre"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamalshowgit" alt="kamalshowgit" /></a> </p>
 <img align="right" alt="cover-git" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🔭 I’m currently working on [Sonwel](https://kamaliitkgp.pythonanywhere.com/)
+- 🔭 I’m currently working on [Sonwel - Generative AI Start-up ](https://kamaliitkgp.pythonanywhere.com/)
 
-- 🌱 I’m currently learning **CS50’s Introduction to Artificial Intelligence with Python**
+- 🌱 I’m currently learning **CS50’s Artificial Intelligence with Python**
 
 - 👯 I’m looking to collaborate on **Shared Autonomous Transportation**
 
