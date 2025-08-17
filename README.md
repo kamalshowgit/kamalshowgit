@@ -42,12 +42,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=kamalshowgit&theme=darkhub&row=1&no-frame=true&no-bg=true" />
-</p>
-
----
 
 ### ☕ Support Me
 <p><a href="https://www.buymeacoffee.com/kamalsoni"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="200" alt="kamalsoni" /></a></p>
