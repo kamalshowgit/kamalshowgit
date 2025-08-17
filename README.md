@@ -191,35 +191,6 @@ Domain: Algorithms & Data Structures
 
 ---
 
-## 🔧 Analytics Specializations
-
-<div align="center">
-
-### Marketing Analytics
-- Customer Segmentation & Targeting
-- Campaign Performance Optimization  
-- Test-and-Control Experimentation
-- ROI Analysis & Attribution Modeling
-- CRM Analytics & Automation
-
-### Financial Analytics
-- Risk Modeling & Credit Scoring
-- Algorithmic Trading Strategies
-- Portfolio Optimization
-- Market Data Analysis
-- Regulatory Compliance Analytics
-
-### Machine Learning Applications
-- Predictive Customer Analytics
-- NLP for Business Insights
-- Time Series Forecasting
-- Anomaly Detection Systems
-- Automated Feature Engineering
-
-</div>
-
----
-
 ## 📈 Impact Metrics Summary
 
 <table align="center">
