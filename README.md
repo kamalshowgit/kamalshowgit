@@ -16,15 +16,18 @@
 
 ## About
 
-Data Analyst specializing in **Marketing Analytics** and **Financial Risk Modeling**. M.Tech from **IIT Kharagpur** with expertise in machine learning and predictive analytics. **Global winner** of Kaggle's Bankruptcy Prediction Challenge.
+I’m a **Data Analyst** with experience in **Marketing Analytics** and **Financial Risk Modeling**.  
+I hold an **M.Tech from IIT Kharagpur** and specialize in **machine learning, predictive analytics, and data-driven decision-making**.  
 
 <div align="center">
+## About Me  
 
-| **Focus Areas** | **Key Skills** | **Achievements** |
-|:---:|:---:|:---:|
-| Marketing Analytics | Python • SQL • ML | 1st Place Kaggle Competition |
-| Financial Modeling | Power BI • Tableau | 20% Conversion Uplift |
-| Campaign Optimization | TensorFlow • XGBoost | M.Tech IIT Kharagpur |
+| **Focus Area**            | **Key Skills**                       | **Achievements**                               |
+|----------------------------|--------------------------------------|-----------------------------------------------|
+| Marketing Analytics        | Python • SQL • ML                   | Improved campaign performance with **20% conversion uplift** |
+| Financial Risk Modeling    | Power BI • Tableau                  | **Global Winner** – Kaggle Bankruptcy Prediction Challenge |
+| Campaign Optimization      | TensorFlow • XGBoost                | M.Tech – IIT Kharagpur                        |
+
 
 </div>
 
