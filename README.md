@@ -1,89 +1,139 @@
-# Hi, I'm Kamal Soni  
+# Hi there, I'm Kamal Soni! 👋✨
 
-**Data Analyst @ HSBC | Full Stack Developer | AI & Finance Enthusiast**  
+<div align="center">
 
-📍 India  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/kamalsonikgp) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?logo=google-chrome&logoColor=white)](https://kamaliitkgp.pythonanywhere.com/) 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github&logoColor=white)](https://github.com/kamalshowgit)  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%40+HSBC+%F0%9F%8F%A6;Full+Stack+Developer+%F0%9F%92%BB;AI+%26+Finance+Enthusiast+%F0%9F%A4%96;Building+the+Future+with+Data+%F0%9F%9A%80)
 
----
+**🔥 Turning Data into Insights | Building AI-Driven Solutions | Innovating in Finance 🔥**
 
-## About Me  
-Turning **data into insights** and building **AI-driven applications**.  
-Currently:  
-- Data Analyst at **HSBC** (CRM & Campaign Analytics)  
-- Founder @ **Sonwel** (Generative AI Startup)  
-- Exploring **AI in Finance, Predictive Analytics, and Full-Stack AI apps**  
+</div>
 
 ---
 
-## Tech Stack  
+## 🚀 About Me
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) 
-![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)  
+🏢 **Currently:** Data Analyst at **HSBC** specializing in CRM & Campaign Analytics  
+🚀 **Founder:** **Sonwel** - Generative AI Startup  
+🎯 **Focus Areas:** AI in Finance • Predictive Analytics • Full-Stack AI Applications  
+📍 **Location:** India 🇮🇳  
 
-**ML & Data**  
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) 
-![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?logo=scikitlearn&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
-
-**Visualization & BI**  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white) 
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black) 
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)  
-
-**Web Development**  
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) 
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) 
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white) 
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)  
+### 💡 What I Do
+- 📊 Transform complex data into actionable business insights
+- 🤖 Develop AI-powered applications that solve real-world problems  
+- 💰 Create innovative solutions at the intersection of AI and Finance
+- 🏗️ Build scalable full-stack applications with modern technologies
 
 ---
 
-## Featured Projects  
+## 🛠️ Tech Arsenal
 
-[**TableAI**](https://github.com/kamalshowgit/tableAI) – AI-powered tabular data insights  
-![TableAI](https://github-readme-stats.vercel.app/api/pin/?username=kamalshowgit&repo=tableAI&theme=radical)  
+<div align="center">
 
-[**Resume Checker Next**](https://github.com/kamalshowgit/resume-checker-next) – AI-based Resume Analyzer (React + Next.js)  
-![ResumeChecker](https://github-readme-stats.vercel.app/api/pin/?username=kamalshowgit&repo=resume-checker-next&theme=radical)  
+### 🔤 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-[**Anomaly Detection**](https://github.com/kamalshowgit/anomaly-detection) – Detect fraud & outliers with ML  
-![Anomaly](https://github-readme-stats.vercel.app/api/pin/?username=kamalshowgit&repo=anomaly-detection&theme=radical)  
+### 🤖 AI & Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-[**Stanford Bookstore E-Commerce**](https://github.com/kamalshowgit/Stanford-bookstore-Ecommerce-platform) – Django + PayPal integration  
-![Stanford](https://github-readme-stats.vercel.app/api/pin/?username=kamalshowgit&repo=Stanford-bookstore-Ecommerce-platform&theme=radical)  
+### 📊 Data Visualization & BI
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
+
+### 🌐 Web Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+</div>
 
 ---
 
-## GitHub Dashboard  
+## 🏆 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kamalshowgit&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamalshowgit&theme=radical" height="180"/>
-</p>
+<div align="center">
+
+### 🤖 **TableAI** - AI-Powered Data Insights
+*Transform your tabular data into intelligent insights with advanced AI*
+[![TableAI](https://github-readme-stats.vercel.app/api/pin/?username=kamalshowgit&repo=tableAI&theme=radical&hide_border=true)](https://github.com/kamalshowgit/tableAI)
+
+### 📄 **Resume Checker Next** - Smart Resume Analyzer  
+*AI-based resume analysis built with React & Next.js*
+[![Resume Checker](https://github-readme-stats.vercel.app/api/pin/?username=kamalshowgit&repo=resume-checker-next&theme=radical&hide_border=true)](https://github.com/kamalshowgit/resume-checker-next)
+
+### 🔍 **Anomaly Detection** - ML-Powered Fraud Detection
+*Detect fraud and outliers using advanced machine learning*
+[![Anomaly Detection](https://github-readme-stats.vercel.app/api/pin/?username=kamalshowgit&repo=anomaly-detection&theme=radical&hide_border=true)](https://github.com/kamalshowgit/anomaly-detection)
+
+### 📚 **Stanford Bookstore E-Commerce** - Full-Stack Platform
+*Complete e-commerce solution with Django & PayPal integration*
+[![Stanford Bookstore](https://github-readme-stats.vercel.app/api/pin/?username=kamalshowgit&repo=Stanford-bookstore-Ecommerce-platform&theme=radical&hide_border=true)](https://github.com/kamalshowgit/Stanford-bookstore-Ecommerce-platform)
+
+</div>
 
 ---
 
-## Highlights  
-- 10+ Data Analytics & Full-Stack Projects  
-- AI-powered Resume Analyzer used by job seekers  
-- CRM Automation & Analytics @ HSBC  
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kamalshowgit&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kamalshowgit&theme=radical&hide_border=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalshowgit&theme=radical&hide_border=true&layout=compact" height="150"/>
+
+</div>
 
 ---
 
-## Connect  
+## 🎯 Achievements & Highlights
 
-📧 **kamalsoni3839@gmail.com**  
+🔥 **10+** Data Analytics & Full-Stack Projects Completed  
+⭐ **AI-Powered Resume Analyzer** - Helping job seekers optimize their resumes  
+🏦 **CRM Automation & Analytics** - Driving business growth at HSBC  
+🚀 **Sonwel Startup** - Leading innovation in Generative AI  
+📈 **Predictive Models** - Built ML solutions for financial forecasting  
 
-<p align="left">
-<a href="https://linkedin.com/in/kamalsonikgp"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30"/></a>
-<a href="https://twitter.com/kamalsoni3839"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="30"/></a>
-<a href="https://instagram.com/kamal._.soni"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" height="30" style="fill:#E4405F"/></a>
-<a href="https://medium.com/@kamalsoni3839"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" height="30"/></a>
-</p>
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kamalsonikgp)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kamaliitkgp.pythonanywhere.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kamalshowgit)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kamalsoni3839@gmail.com)
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kamalsoni3839)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kamal._.soni)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kamalsoni3839)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 *"Turning data into decisions, code into solutions, and ideas into reality"*
+
+![Profile Views](https://komarev.com/ghpvc/?username=kamalshowgit&color=brightgreen&style=for-the-badge)
+[![GitHub followers](https://img.shields.io/github/followers/kamalshowgit?style=for-the-badge&color=blue)](https://github.com/kamalshowgit)
+
+**⭐ Star my repositories if you find them useful!**
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</div>
