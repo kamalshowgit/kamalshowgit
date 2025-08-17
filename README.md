@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kamal Soni</h1>
-<h3 align="center">Data Analyst @ HSBC | Full Stack Web Developer | AI & Finance Enthusiast</h3>
+<h3 align="center">Data Analyst | Full Stack Web Developer | AI & Finance Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kamalshowgit&label=Profile%20views&color=0e75b6&style=flat" alt="kamalshowgit" />
@@ -8,8 +8,7 @@
 ---
 
 ### 🚀 About Me  
-- 🔭 Currently working as **Data Analyst at HSBC**, deploying CRM campaigns & analyzing data  
-- 🌱 Learning **CS50’s Artificial Intelligence with Python** & exploring **Generative AI**  
+- 🔭 Currently working as **Data Analyst**, deploying CRM campaigns & analyzing data  
 - 👯 Open to collaborate on **Data Science, FinTech, and Web Applications**  
 - 👨‍💻 Portfolio: [kamaliitkgp.pythonanywhere.com](https://kamaliitkgp.pythonanywhere.com/)  
 - 📝 Hire me: [zaap.bio/kamalsoni](https://zaap.bio/kamalsoni)  
