@@ -20,7 +20,6 @@ I’m a **Data Analyst** with experience in **Marketing Analytics** and **Financ
 I hold an **M.Tech from IIT Kharagpur** and specialize in **machine learning, predictive analytics, and data-driven decision-making**.  
 
 <div align="center">
-## About Me  
 
 | **Focus Area**            | **Key Skills**                       | **Achievements**                               |
 |----------------------------|--------------------------------------|-----------------------------------------------|
