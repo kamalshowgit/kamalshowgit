@@ -34,19 +34,34 @@ I hold an **M.Tech from IIT Kharagpur** and specialize in **machine learning, pr
 
 ## Tech Stack
 
-<div align="center">
+### 📊 Programming & Data Handling  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
+![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoftexcel&logoColor=white&style=for-the-badge)
+![SAS](https://img.shields.io/badge/-SAS-0066CC?logo=sas&logoColor=white&style=for-the-badge)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+### 📢 Marketing & CRM Analytics  
+![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?logo=salesforce&logoColor=white&style=for-the-badge)
+![Pega](https://img.shields.io/badge/-Pega-1D2F6F?logoColor=white&style=for-the-badge)
+![CIM](https://img.shields.io/badge/-CIM-FF6F00?logoColor=white&style=for-the-badge)
+![SAMS](https://img.shields.io/badge/-SAMS-008080?logoColor=white&style=for-the-badge)
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 🤖 Machine Learning  
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge)
+![XGBoost](https://img.shields.io/badge/-XGBoost-FF6600?logoColor=white&style=for-the-badge)
+![LightGBM](https://img.shields.io/badge/-LightGBM-5C9BD4?logoColor=white&style=for-the-badge)
+![Time Series](https://img.shields.io/badge/-Time%20Series-008080?style=for-the-badge)
 
-</div>
+### 🧠 Deep Learning & NLP  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
+![NLP](https://img.shields.io/badge/-NLP-FF4088?style=for-the-badge)
+
+### 📈 Data Visualization  
+![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=for-the-badge)
+![Looker](https://img.shields.io/badge/-Looker-4285F4?logo=looker&logoColor=white&style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-013243?style=for-the-badge)
 
 ---
 
