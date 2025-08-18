@@ -38,7 +38,7 @@ I hold an **M.Tech from IIT Kharagpur** and specialize in **machine learning, pr
 
 ### Programming & Data Handling  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![SQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
+![SQL](https://img.shields.io/badge/-SQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
 ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoftexcel&logoColor=white&style=for-the-badge)
 ![SAS](https://img.shields.io/badge/-SAS-0066CC?logo=sas&logoColor=white&style=for-the-badge)
 ![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?logo=apachespark&logoColor=white&style=for-the-badge)
