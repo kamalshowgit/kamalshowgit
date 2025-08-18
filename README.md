@@ -79,51 +79,17 @@ I hold an **M.Tech from IIT Kharagpur** and specialize in **machine learning, pr
 
 
 ---
-## Featured Projects  
+## Portfolio
 
 ### Data Science & Machine Learning  
-
-#### [tableAI](https://github.com/kamalshowgit/tableAI)  
-AI-powered data handling and automation framework.  
-- Focus: Machine Learning & Predictive Analytics  
-- Recently updated and actively maintained  
-- Applied AI for real-world data workflows  
-
-#### [Kaggle Bankruptcy Prediction (kagglecomp)](https://github.com/kamalshowgit/kagglecomp)  
-Competition project on bankruptcy prediction.  
-- Risk Modeling, Feature Engineering, Machine Learning  
-- Kaggle Challenge participation  
-- Demonstrates strong applied Data Science in Finance  
-
-#### [Anomaly Detection](https://github.com/kamalshowgit/anomaly-detection)  
-Framework for detecting unusual patterns in datasets.  
-- Outlier Detection and Business Risk Monitoring  
-- Relevant to finance and operational analytics  
-- Practical use case in fraud detection and compliance  
-
----
+- [tableAI](https://github.com/kamalshowgit/tableAI): AI-powered data handling and automation framework.  
+- [Kaggle Bankruptcy Prediction](https://github.com/kamalshowgit/kagglecomp): Machine learning models for financial risk prediction.  
+- [Anomaly Detection](https://github.com/kamalshowgit/anomaly-detection): Framework for detecting outliers and unusual patterns in datasets.  
 
 ### AI & Full-Stack Applications  
-
-#### [Resume Checker AI](https://github.com/kamalshowgit/resume-checker-next)  
-AI-powered resume analyzer with responsive UI and integrated payments.  
-- NLP and LLM-based evaluation  
-- Built-in pricing and access model  
-- Designed for job seekers and recruiters  
-
-#### [iAmChat](https://github.com/kamalshowgit/iAmChat)  
-Custom conversational AI chatbot.  
-- Conversational AI with LLM integration  
-- Full-stack development showcasing applied NLP  
-- Focus on seamless human–AI interaction  
-
-#### [TV Channels App](https://github.com/kamalshowgit/tv-channels)  
-Streaming application for Indian TV channels.  
-- React Native with IPTV integration  
-- Custom UI/UX for smooth user experience  
-- Optimized for cross-device availability  
-
----
+- [Resume Checker AI](https://github.com/kamalshowgit/resume-checker-next): AI-powered resume analyzer with pricing model integration.  
+- [iAmChat](https://github.com/kamalshowgit/iAmChat): Custom conversational AI chatbot with LLM integration.  
+- [TV Channels App](https://github.com/kamalshowgit/tv-channels): React Native app for streaming Indian TV channels with smooth UI/UX.  
 
 For more, visit my [GitHub Repositories](https://github.com/kamalshowgit?tab=repositories).
 
