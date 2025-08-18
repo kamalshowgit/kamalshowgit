@@ -45,7 +45,6 @@ I hold an **M.Tech from IIT Kharagpur** and specialize in **machine learning, pr
 ![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?logo=salesforce&logoColor=white&style=for-the-badge)
 ![Pega](https://img.shields.io/badge/-Pega-1D2F6F?logoColor=white&style=for-the-badge)
 ![CIM](https://img.shields.io/badge/-CIM-FF6F00?logoColor=white&style=for-the-badge)
-![SAMS](https://img.shields.io/badge/-SAMS-008080?logoColor=white&style=for-the-badge)
 
 ### Machine Learning & Predictive Modeling  
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge)
