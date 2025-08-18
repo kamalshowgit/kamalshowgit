@@ -33,17 +33,25 @@ I hold an **M.Tech from IIT Kharagpur** and specialize in **machine learning, pr
 ---
 ## Portfolio
 
-## Portfolio
+<div align="center">
 
-**Data Science & Machine Learning**  
-[<img src="https://img.icons8.com/ios-filled/20/artificial-intelligence.png" alt="AI"/> tableAI](https://github.com/kamalshowgit/tableAI) — AI-powered data handling framework | 
-[<img src="https://img.icons8.com/ios-filled/20/combo-chart.png" alt="Chart"/> Kaggle Bankruptcy Prediction](https://github.com/kamalshowgit/kagglecomp) — ML for bankruptcy risk modeling | 
-[<img src="https://img.icons8.com/ios-filled/20/inspection.png" alt="Detection"/> Anomaly Detection](https://github.com/kamalshowgit/anomaly-detection) — Detect unusual data patterns  
+### Data Science & Machine Learning  
+| Project | Description |
+|---------|-------------|
+| <a href="https://github.com/kamalshowgit/tableAI"><img src="https://img.icons8.com/ios-filled/25/artificial-intelligence.png" width="20"/> **tableAI**</a> | AI-powered data handling & automation framework |
+| <a href="https://github.com/kamalshowgit/kagglecomp"><img src="https://img.icons8.com/ios-filled/25/combo-chart.png" width="20"/> **Bankruptcy Prediction**</a> | ML model for bankruptcy risk prediction |
+| <a href="https://github.com/kamalshowgit/anomaly-detection"><img src="https://img.icons8.com/ios-filled/25/inspection.png" width="20"/> **Anomaly Detection**</a> | Detects unusual patterns in datasets |
 
-**AI & Full-Stack Applications**  
-[<img src="https://img.icons8.com/ios-filled/20/resume.png" alt="Resume"/> Resume Checker AI](https://github.com/kamalshowgit/resume-checker-next) — AI-powered resume analyzer with payments | 
-[<img src="https://img.icons8.com/ios-filled/20/chat.png" alt="Chat"/> iAmChat](https://github.com/kamalshowgit/iAmChat) — Custom conversational AI with LLM integration | 
-[<img src="https://img.icons8.com/ios-filled/20/tv.png" alt="TV"/> TV Channels App](https://github.com/kamalshowgit/tv-channels) — Streaming app for Indian TV channels  
+---
+
+### AI & Full-Stack Applications  
+| Project | Description |
+|---------|-------------|
+| <a href="https://github.com/kamalshowgit/resume-checker-next"><img src="https://img.icons8.com/ios-filled/25/resume.png" width="20"/> **Resume Checker AI**</a> | AI-powered resume analyzer with integrated payments |
+| <a href="https://github.com/kamalshowgit/iAmChat"><img src="https://img.icons8.com/ios-filled/25/chat.png" width="20"/> **iAmChat**</a> | Custom conversational AI with LLM integration |
+| <a href="https://github.com/kamalshowgit/tv-channels"><img src="https://img.icons8.com/ios-filled/25/tv.png" width="20"/> **TV Channels App**</a> | Streaming app for Indian live TV channels |
+
+</div>
 
 
 ---
