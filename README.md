@@ -29,7 +29,9 @@ I hold an **M.Tech from IIT Kharagpur** and specialize in **machine learning, pr
 
 
 </div>
+
 ---
+
 ## 🛠 Tech Stack  
 
 ### Core Data Skills  
