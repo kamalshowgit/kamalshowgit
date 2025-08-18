@@ -16,9 +16,9 @@
 
 ## About Me  
 
-M.Tech graduate from **IIT Kharagpur** with expertise in **Marketing Analytics, Financial Risk Modeling, and Machine Learning**.  
-Skilled in **Python, SQL, BI tools, and AI frameworks**, with achievements like a **global Kaggle competition win** and delivering a **20% uplift in marketing conversion rates**.  
-
+Hi, I’m Kamal 👋. I completed my **M.Tech from IIT Kharagpur** and I’m currently working as a **Data Analyst at HSBC**.  
+My work mainly focuses on **Marketing Analytics, Financial Risk Modeling, and Machine Learning**. I love working with **Python, SQL, BI tools, and AI frameworks** to turn raw data into meaningful insights.  
+Along the way, I’ve been fortunate to achieve things like winning a **global Kaggle competition** and driving a **20% uplift in marketing conversion rates**.  
 ---
 
 ## Portfolio  
@@ -64,26 +64,11 @@ Skilled in **Python, SQL, BI tools, and AI frameworks**, with achievements like 
 
 ## Tech Stack  
 
-**Core Data**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)  
-![SQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)  
-![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?logo=apachespark&logoColor=white&style=for-the-badge)  
-![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoftexcel&logoColor=white&style=for-the-badge)  
-![SAS](https://img.shields.io/badge/-SAS-0066CC?logo=sas&logoColor=white&style=for-the-badge)  
+**Core Data:** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge) ![SQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge) ![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?logo=apachespark&logoColor=white&style=for-the-badge) ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoftexcel&logoColor=white&style=for-the-badge) ![SAS](https://img.shields.io/badge/-SAS-0066CC?logo=sas&logoColor=white&style=for-the-badge)  
 
-**Machine Learning & AI**  
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge)  
-![XGBoost](https://img.shields.io/badge/-XGBoost-FF6600?logoColor=white&style=for-the-badge)  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)  
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)  
-![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=for-the-badge)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)  
+**Machine Learning & AI:** ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge) ![XGBoost](https://img.shields.io/badge/-XGBoost-FF6600?logoColor=white&style=for-the-badge) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge) ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=for-the-badge) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)  
 
-**Visualization & BI**  
-![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge)  
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=for-the-badge)  
-![Looker](https://img.shields.io/badge/-Looker-4285F4?logo=looker&logoColor=white&style=for-the-badge)  
-![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?logo=plotly&logoColor=white&style=for-the-badge)  
+**Visualization & BI:** ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge) ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=for-the-badge) ![Looker](https://img.shields.io/badge/-Looker-4285F4?logo=looker&logoColor=white&style=for-the-badge) ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?logo=plotly&logoColor=white&style=for-the-badge) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-013243?style=for-the-badge) ![Seaborn](https://img.shields.io/badge/-Seaborn-9C27B0?style=for-the-badge)  
 
 ---
 
