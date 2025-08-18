@@ -57,17 +57,16 @@ For more, visit my [GitHub Repositories](https://github.com/kamalshowgit?tab=rep
 
 ---
 ## Education  
-- **IIT Kharagpur** – M.Tech in Infrastructure Management (2024), GPA: 8.34/10  
-- **VGEC Ahmedabad** – B.E. in Civil Engineering (2021), GPA: 8.72/10  
+- <img src="https://img.icons8.com/ios-filled/20/graduation-cap.png" alt="Grad"/> **IIT Kharagpur** – M.Tech in Infrastructure Management (2024)  
+- <img src="https://img.icons8.com/ios-filled/20/university.png" alt="University"/> **VGEC Ahmedabad** – B.E. in Civil Engineering (2021)  
 
 ## Certifications  
-- CS50’s Introduction to Computer Science – Harvard University  
-- Python for Data Science – IIT Madras (NPTEL)  
-- SEBI Certified Securities Market Investor – NISM, India  
+- <img src="https://img.icons8.com/ios-filled/20/certificate.png" alt="Cert"/> CS50’s Introduction to Computer Science – Harvard University  
+- <img src="https://img.icons8.com/ios-filled/20/certificate.png" alt="Cert"/> Python for Data Science – IIT Madras (NPTEL)  
+- <img src="https://img.icons8.com/ios-filled/20/certificate.png" alt="Cert"/> SEBI Certified Securities Market Investor – NISM, India  
+
 
 ---
-
-
 
 ## Tech Stack  
 
