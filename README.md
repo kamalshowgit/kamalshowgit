@@ -52,9 +52,6 @@ I hold an **M.Tech from IIT Kharagpur** and specialize in **machine learning, pr
 
 </div>
 
-
----
-
 For more, visit my [GitHub Repositories](https://github.com/kamalshowgit?tab=repositories).
 
 
