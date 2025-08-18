@@ -35,22 +35,26 @@ I hold an **M.Tech from IIT Kharagpur** and specialize in **machine learning, pr
 
 <div align="center">
 
-### Data Science & Machine Learning  
+## Data Science & Machine Learning  
+
 | Project | Description |
 |---------|-------------|
-| <a href="https://github.com/kamalshowgit/tableAI">**tableAI**</a> | AI-powered data handling & automation framework |
-| <a href="https://github.com/kamalshowgit/kagglecomp"> **Bankruptcy Prediction**</a> | ML model for bankruptcy risk prediction |
-| <a href="https://github.com/kamalshowgit/anomaly-detection">**Anomaly Detection**</a> | Detects unusual patterns in datasets |
+| <img src="https://img.icons8.com/ios-filled/20/ffffff/artificial-intelligence.png" alt="AI"/> <a href="https://github.com/kamalshowgit/tableAI"><b>tableAI</b></a> | AI-powered data handling & automation framework |
+| <img src="https://img.icons8.com/ios-filled/20/ffffff/combo-chart.png" alt="Finance"/> <a href="https://github.com/kamalshowgit/kagglecomp"><b>Bankruptcy Prediction</b></a> | ML model for bankruptcy risk prediction |
+| <img src="https://img.icons8.com/ios-filled/20/ffffff/inspection.png" alt="Anomaly"/> <a href="https://github.com/kamalshowgit/anomaly-detection"><b>Anomaly Detection</b></a> | Detects unusual patterns in datasets |
 
-### AI & Full-Stack Applications  
+---
+
+## AI & Full-Stack Applications  
+
 | Project | Description |
 |---------|-------------|
-| <a href="https://github.com/kamalshowgit/resume-checker-next"> **Resume Checker AI**</a> | AI-powered resume analyzer with integrated payments |
-| <a href="https://github.com/kamalshowgit/iAmChat"> **iAmChat**</a> | Custom conversational AI with LLM integration |
-| <a href="https://github.com/kamalshowgit/tv-channels"> **TV Channels App**</a> | Streaming app for Indian live TV channels |
-
+| <img src="https://img.icons8.com/ios-filled/20/ffffff/resume.png" alt="Resume"/> <a href="https://github.com/kamalshowgit/resume-checker-next"><b>Resume Checker AI</b></a> | AI-powered resume analyzer with integrated payments |
+| <img src="https://img.icons8.com/ios-filled/20/ffffff/chat.png" alt="Chatbot"/> <a href="https://github.com/kamalshowgit/iAmChat"><b>iAmChat</b></a> | Custom conversational AI with LLM integration |
+| <img src="https://img.icons8.com/ios-filled/20/ffffff/tv.png" alt="TV"/> <a href="https://github.com/kamalshowgit/tv-channels"><b>TV Channels App</b></a> | Streaming app for Indian live TV channels |
 
 </div>
+
 
 For more, visit my [GitHub Repositories](https://github.com/kamalshowgit?tab=repositories).
 
