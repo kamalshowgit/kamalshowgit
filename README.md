@@ -2,7 +2,8 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Data+Analyst;Machine+Learning+Engineer;IIT+Kharagpur+Graduate)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1500&pause=800&color=2F81F7&center=true&vCenter=true&width=600&lines=Data+Analyst;Machine+Learning+Engineer;IIT+Kharagpur+Graduate;Expert+in+SQL+%26+Python;BI+%26+Visualization+Specialist;Applied+NLP+%26+LLMs;Turning+Data+into+Insights)
+
 
 **Turning Data into Insights | Building AI Solutions**
 
