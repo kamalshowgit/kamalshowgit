@@ -33,29 +33,18 @@ I hold an **M.Tech from IIT Kharagpur** and specialize in **machine learning, pr
 ---
 ## Portfolio
 
-### Data Science & Machine Learning  
+## Portfolio
 
-#### [![ML](https://img.icons8.com/ios-filled/18/000000/artificial-intelligence.png) tableAI](https://github.com/kamalshowgit/tableAI)  
-AI-powered data handling and automation framework.  
+**Data Science & Machine Learning**  
+[<img src="https://img.icons8.com/ios-filled/20/artificial-intelligence.png" alt="AI"/> tableAI](https://github.com/kamalshowgit/tableAI) — AI-powered data handling framework | 
+[<img src="https://img.icons8.com/ios-filled/20/combo-chart.png" alt="Chart"/> Kaggle Bankruptcy Prediction](https://github.com/kamalshowgit/kagglecomp) — ML for bankruptcy risk modeling | 
+[<img src="https://img.icons8.com/ios-filled/20/inspection.png" alt="Detection"/> Anomaly Detection](https://github.com/kamalshowgit/anomaly-detection) — Detect unusual data patterns  
 
-#### [![Finance](https://img.icons8.com/ios-filled/18/000000/combo-chart.png) Kaggle Bankruptcy Prediction](https://github.com/kamalshowgit/kagglecomp)  
-Machine learning solution for bankruptcy risk modeling.  
+**AI & Full-Stack Applications**  
+[<img src="https://img.icons8.com/ios-filled/20/resume.png" alt="Resume"/> Resume Checker AI](https://github.com/kamalshowgit/resume-checker-next) — AI-powered resume analyzer with payments | 
+[<img src="https://img.icons8.com/ios-filled/20/chat.png" alt="Chat"/> iAmChat](https://github.com/kamalshowgit/iAmChat) — Custom conversational AI with LLM integration | 
+[<img src="https://img.icons8.com/ios-filled/20/tv.png" alt="TV"/> TV Channels App](https://github.com/kamalshowgit/tv-channels) — Streaming app for Indian TV channels  
 
-#### [![Detection](https://img.icons8.com/ios-filled/18/000000/inspection.png) Anomaly Detection](https://github.com/kamalshowgit/anomaly-detection)  
-Framework for detecting unusual patterns and anomalies in datasets.  
-
----
-
-### AI & Full-Stack Applications  
-
-#### [![Resume](https://img.icons8.com/ios-filled/18/000000/resume.png) Resume Checker AI](https://github.com/kamalshowgit/resume-checker-next)  
-AI-powered resume analyzer with integrated payments.  
-
-#### [![Chat](https://img.icons8.com/ios-filled/18/000000/chat.png) iAmChat](https://github.com/kamalshowgit/iAmChat)  
-Custom conversational AI chatbot with LLM integration.  
-
-#### [![TV](https://img.icons8.com/ios-filled/18/000000/tv.png) TV Channels App](https://github.com/kamalshowgit/tv-channels)  
-Streaming app for Indian TV channels with smooth UI/UX.  
 
 ---
 
