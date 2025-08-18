@@ -57,7 +57,7 @@ For more, visit my [GitHub Repositories](https://github.com/kamalshowgit?tab=rep
 
 ---
 
-## 🛠 Tech Stack  
+## Tech Stack  
 
 ### Core Data Skills  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
