@@ -31,67 +31,36 @@ I hold an **M.Tech from IIT Kharagpur** and specialize in **machine learning, pr
 </div>
 
 ---
-
-## Tech Stack
-
-### Core Data Skills  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![SQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
-![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoftexcel&logoColor=white&style=for-the-badge)
-![SAS](https://img.shields.io/badge/-SAS-0066CC?logo=sas&logoColor=white&style=for-the-badge)
-![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?logo=apachespark&logoColor=white&style=for-the-badge)
-
-### Customer & Marketing Analytics  
-![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?logo=salesforce&logoColor=white&style=for-the-badge)
-![Pega](https://img.shields.io/badge/-Pega-1D2F6F?logoColor=white&style=for-the-badge)
-![CIM](https://img.shields.io/badge/-CIM-FF6F00?logoColor=white&style=for-the-badge)
-
-### Machine Learning & Predictive Modeling  
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge)
-![XGBoost](https://img.shields.io/badge/-XGBoost-FF6600?logoColor=white&style=for-the-badge)
-![LightGBM](https://img.shields.io/badge/-LightGBM-5C9BD4?logoColor=white&style=for-the-badge)
-![Regression](https://img.shields.io/badge/-Regression-008080?style=for-the-badge)
-![Classification](https://img.shields.io/badge/-Classification-4B0082?style=for-the-badge)
-![Statistics](https://img.shields.io/badge/-Statistics-556B2F?style=for-the-badge)
-![Time Series](https://img.shields.io/badge/-Time%20Series-FF4500?style=for-the-badge)
-
-### Deep Learning & Generative AI  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
-![Transformers](https://img.shields.io/badge/-Transformers-FFD43B?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/-LLMs-000000?style=for-the-badge)
-![NLP](https://img.shields.io/badge/-NLP-FF4088?style=for-the-badge)
-
-### MLOps & Model Deployment  
-![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=for-the-badge)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge)
-![Airflow](https://img.shields.io/badge/-Airflow-017CEE?logo=apacheairflow&logoColor=white&style=for-the-badge)
-
-### Data Visualization & BI  
-![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=for-the-badge)
-![Looker](https://img.shields.io/badge/-Looker-4285F4?logo=looker&logoColor=white&style=for-the-badge)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-013243?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/-Seaborn-9C27B0?style=for-the-badge)
-![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?logo=plotly&logoColor=white&style=for-the-badge)
-
-
-
----
 ## Portfolio
 
 ### Data Science & Machine Learning  
-- [tableAI](https://github.com/kamalshowgit/tableAI): AI-powered data handling and automation framework.  
-- [Kaggle Bankruptcy Prediction](https://github.com/kamalshowgit/kagglecomp): Machine learning models for financial risk prediction.  
-- [Anomaly Detection](https://github.com/kamalshowgit/anomaly-detection): Framework for detecting outliers and unusual patterns in datasets.  
+
+#### [![ML](https://img.icons8.com/ios-filled/18/000000/artificial-intelligence.png) tableAI](https://github.com/kamalshowgit/tableAI)  
+AI-powered data handling and automation framework.  
+
+#### [![Finance](https://img.icons8.com/ios-filled/18/000000/combo-chart.png) Kaggle Bankruptcy Prediction](https://github.com/kamalshowgit/kagglecomp)  
+Machine learning solution for bankruptcy risk modeling.  
+
+#### [![Detection](https://img.icons8.com/ios-filled/18/000000/inspection.png) Anomaly Detection](https://github.com/kamalshowgit/anomaly-detection)  
+Framework for detecting unusual patterns and anomalies in datasets.  
+
+---
 
 ### AI & Full-Stack Applications  
-- [Resume Checker AI](https://github.com/kamalshowgit/resume-checker-next): AI-powered resume analyzer with pricing model integration.  
-- [iAmChat](https://github.com/kamalshowgit/iAmChat): Custom conversational AI chatbot with LLM integration.  
-- [TV Channels App](https://github.com/kamalshowgit/tv-channels): React Native app for streaming Indian TV channels with smooth UI/UX.  
+
+#### [![Resume](https://img.icons8.com/ios-filled/18/000000/resume.png) Resume Checker AI](https://github.com/kamalshowgit/resume-checker-next)  
+AI-powered resume analyzer with integrated payments.  
+
+#### [![Chat](https://img.icons8.com/ios-filled/18/000000/chat.png) iAmChat](https://github.com/kamalshowgit/iAmChat)  
+Custom conversational AI chatbot with LLM integration.  
+
+#### [![TV](https://img.icons8.com/ios-filled/18/000000/tv.png) TV Channels App](https://github.com/kamalshowgit/tv-channels)  
+Streaming app for Indian TV channels with smooth UI/UX.  
+
+---
 
 For more, visit my [GitHub Repositories](https://github.com/kamalshowgit?tab=repositories).
+
 
 ---
 
