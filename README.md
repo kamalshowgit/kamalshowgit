@@ -38,16 +38,16 @@ I hold an **M.Tech from IIT Kharagpur** and specialize in **machine learning, pr
 ### Data Science & Machine Learning  
 | Project | Description |
 |---------|-------------|
-| <a href="https://github.com/kamalshowgit/tableAI"><img src="https://skillicons.dev/icons?i=python" width="25"/> **tableAI**</a> | AI-powered data handling & automation framework |
-| <a href="https://github.com/kamalshowgit/kagglecomp"><img src="https://skillicons.dev/icons?i=pytorch" width="25"/> **Bankruptcy Prediction**</a> | ML model for bankruptcy risk prediction |
-| <a href="https://github.com/kamalshowgit/anomaly-detection"><img src="https://skillicons.dev/icons?i=tensorflow" width="25"/> **Anomaly Detection**</a> | Detects unusual patterns in datasets |
+| <a href="https://github.com/kamalshowgit/tableAI">**tableAI**</a> | AI-powered data handling & automation framework |
+| <a href="https://github.com/kamalshowgit/kagglecomp"> **Bankruptcy Prediction**</a> | ML model for bankruptcy risk prediction |
+| <a href="https://github.com/kamalshowgit/anomaly-detection">**Anomaly Detection**</a> | Detects unusual patterns in datasets |
 
 ### AI & Full-Stack Applications  
 | Project | Description |
 |---------|-------------|
-| <a href="https://github.com/kamalshowgit/resume-checker-next"><img src="https://skillicons.dev/icons?i=nextjs" width="25"/> **Resume Checker AI**</a> | AI-powered resume analyzer with integrated payments |
-| <a href="https://github.com/kamalshowgit/iAmChat"><img src="https://skillicons.dev/icons?i=react" width="25"/> **iAmChat**</a> | Custom conversational AI with LLM integration |
-| <a href="https://github.com/kamalshowgit/tv-channels"><img src="https://skillicons.dev/icons?i=nodejs" width="25"/> **TV Channels App**</a> | Streaming app for Indian live TV channels |
+| <a href="https://github.com/kamalshowgit/resume-checker-next"> **Resume Checker AI**</a> | AI-powered resume analyzer with integrated payments |
+| <a href="https://github.com/kamalshowgit/iAmChat"> **iAmChat**</a> | Custom conversational AI with LLM integration |
+| <a href="https://github.com/kamalshowgit/tv-channels"> **TV Channels App**</a> | Streaming app for Indian live TV channels |
 
 
 </div>
