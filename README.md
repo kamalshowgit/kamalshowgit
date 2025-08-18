@@ -31,6 +31,31 @@ I hold an **M.Tech from IIT Kharagpur** and specialize in **machine learning, pr
 </div>
 
 ---
+## Portfolio
+
+<div align="center">
+
+### Data Science & Machine Learning  
+| Project | Description |
+|---------|-------------|
+| <a href="https://github.com/kamalshowgit/tableAI">**tableAI**</a> | AI-powered data handling & automation framework |
+| <a href="https://github.com/kamalshowgit/kagglecomp"> **Bankruptcy Prediction**</a> | ML model for bankruptcy risk prediction |
+| <a href="https://github.com/kamalshowgit/anomaly-detection">**Anomaly Detection**</a> | Detects unusual patterns in datasets |
+
+### AI & Full-Stack Applications  
+| Project | Description |
+|---------|-------------|
+| <a href="https://github.com/kamalshowgit/resume-checker-next"> **Resume Checker AI**</a> | AI-powered resume analyzer with integrated payments |
+| <a href="https://github.com/kamalshowgit/iAmChat"> **iAmChat**</a> | Custom conversational AI with LLM integration |
+| <a href="https://github.com/kamalshowgit/tv-channels"> **TV Channels App**</a> | Streaming app for Indian live TV channels |
+
+
+</div>
+
+For more, visit my [GitHub Repositories](https://github.com/kamalshowgit?tab=repositories).
+
+
+---
 
 ## 🛠 Tech Stack  
 
@@ -76,34 +101,6 @@ I hold an **M.Tech from IIT Kharagpur** and specialize in **machine learning, pr
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-013243?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-9C27B0?style=for-the-badge)
 ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?logo=plotly&logoColor=white&style=for-the-badge)
-
-
-
-
-
----
-## Portfolio
-
-<div align="center">
-
-### Data Science & Machine Learning  
-| Project | Description |
-|---------|-------------|
-| <a href="https://github.com/kamalshowgit/tableAI">**tableAI**</a> | AI-powered data handling & automation framework |
-| <a href="https://github.com/kamalshowgit/kagglecomp"> **Bankruptcy Prediction**</a> | ML model for bankruptcy risk prediction |
-| <a href="https://github.com/kamalshowgit/anomaly-detection">**Anomaly Detection**</a> | Detects unusual patterns in datasets |
-
-### AI & Full-Stack Applications  
-| Project | Description |
-|---------|-------------|
-| <a href="https://github.com/kamalshowgit/resume-checker-next"> **Resume Checker AI**</a> | AI-powered resume analyzer with integrated payments |
-| <a href="https://github.com/kamalshowgit/iAmChat"> **iAmChat**</a> | Custom conversational AI with LLM integration |
-| <a href="https://github.com/kamalshowgit/tv-channels"> **TV Channels App**</a> | Streaming app for Indian live TV channels |
-
-
-</div>
-
-For more, visit my [GitHub Repositories](https://github.com/kamalshowgit?tab=repositories).
 
 
 ---
