@@ -20,6 +20,7 @@
 Hi, I’m Kamal 👋. I completed my **M.Tech from IIT Kharagpur** and I’m currently working as a **Data Analyst at HSBC**.  
 My work mainly focuses on **Marketing Analytics, Financial Risk Modeling, and Machine Learning**. I love working with **Python, SQL, BI tools, and AI frameworks** to turn raw data into meaningful insights.  
 Along the way, I’ve been fortunate to achieve things like winning a **global Kaggle competition** and driving a **20% uplift in marketing conversion rates**.  
+
 ---
 
 ## Portfolio  
@@ -34,7 +35,6 @@ Along the way, I’ve been fortunate to achieve things like winning a **global K
 | <img src="https://img.icons8.com/ios-filled/20/ffffff/combo-chart.png" alt="Finance"/> [**Bankruptcy Prediction**](https://github.com/kamalshowgit/kagglecomp) | ML models for financial risk prediction |
 | <img src="https://img.icons8.com/ios-filled/20/ffffff/inspection.png" alt="Anomaly"/> [**Anomaly Detection**](https://github.com/kamalshowgit/anomaly-detection) | Framework for outlier and fraud detection |
 
----
 
 ### AI & Full-Stack Applications  
 
