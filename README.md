@@ -77,9 +77,6 @@ Along the way, I’ve been fortunate to achieve things like winning a **global K
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kamalshowgit&show_icons=true&theme=transparent&hide_border=true&icon_color=2F81F7&title_color=2F81F7" height="160"/>  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kamalshowgit&theme=transparent&hide_border=true&ring=2F81F7&fire=FF6B35&currStreakLabel=2F81F7" height="160"/>  
-
 ![Profile Views](https://komarev.com/ghpvc/?username=kamalshowgit&color=2F81F7&style=flat-square&label=Profile+Views)
 
 </div>
