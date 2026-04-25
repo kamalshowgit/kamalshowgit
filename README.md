@@ -1,58 +1,50 @@
-# Kamal Soni
+# Hello ! I'm Kamal Soni 👋  
+Data Analyst @ HSBC | ML Engineer | AI & Data Solutions  
 
-<div align="center">
+I build data-driven systems that turn raw data into actionable insights.  
+My work focuses on analytics, machine learning, and AI-powered automation—helping businesses make smarter decisions.
 
-### Data Analyst · ML Engineer  
-<sub>Python · SQL · AI Solutions</sub>
+---
 
-<br>
+👨‍💻 What I work on:
 
-🔗 <a href="https://linkedin.com/in/kamalsonikgp">LinkedIn</a>  
-🌐 <a href="https://kamaliitkgp.pythonanywhere.com/">Portfolio</a>  
-✉️ <a href="mailto:kamalsoni3839@gmail.com">Hire Me</a>
+Data analysis & dashboarding (business insights)  
+Machine learning models (prediction, risk, optimization)  
+SQL & Python automation (data pipelines, workflows)  
+AI applications (LLMs, chatbots, intelligent tools)  
 
-</div>
+---
 
-<br>
+🛠️ Tech stack:
 
-### <sub>HSBC · IIT Kharagpur</sub>
+Python • SQL • Pandas • Scikit-learn • PyTorch • TensorFlow  
+Power BI • Tableau • APIs • AWS • Docker  
 
-<sub>Turning raw data into insights and building AI-driven systems</sub>
+---
 
-<br>
+🌎 Background:
 
-### Work
+M.Tech from IIT Kharagpur, currently working at HSBC in marketing analytics and CRM data.  
+Experience building real-world data systems and AI applications across finance and business use cases.
 
-<sub>
-Data analysis · Dashboards · Machine learning · Automation · AI applications  
-</sub>
+---
 
-<br>
+📫 Connect:
 
-### Selected Projects
+[Portfolio](https://kamaliitkgp.pythonanywhere.com/) •  
+[LinkedIn](https://linkedin.com/in/kamalsonikgp) •  
+[Email](mailto:kamalsoni3839@gmail.com)
 
-<sub>
+---
 
-🔹 <a href="https://github.com/kamalshowgit/OraAI">OraAI</a> — Natural language → SQL  
+📌 Selected Work:
 
-🔹 <a href="https://github.com/kamalshowgit/resume-checker-next">resume-checker-next</a> — AI resume analysis  
+• [OraAI](https://github.com/kamalshowgit/OraAI) — Natural language → SQL automation  
+• [resume-checker-next](https://github.com/kamalshowgit/resume-checker-next) — AI resume analyzer  
+• [anomaly-detection](https://github.com/kamalshowgit/anomaly-detection) — Fraud detection models  
+• [iAmChat](https://github.com/kamalshowgit/iAmChat) — Conversational AI chatbot  
+• [Power-BI-Projects](https://github.com/kamalshowgit/Power-BI-Projects) — Business dashboards  
 
-🔹 <a href="https://github.com/kamalshowgit/anomaly-detection">anomaly-detection</a> — Fraud detection  
+---
 
-🔹 <a href="https://github.com/kamalshowgit/iAmChat">iAmChat</a> — AI chatbot  
-
-🔹 <a href="https://github.com/kamalshowgit/Power-BI-Projects">Power BI Projects</a> — Dashboards  
-
-</sub>
-
-<br>
-
-### Stack
-
-<sub>
-Python · SQL · Pandas · Machine Learning · Power BI · APIs · AWS  
-</sub>
-
-<br>
-
-<sub>Open to freelance work · Data · ML · AI</sub>
+Open to freelance work in data, ML, and AI.
