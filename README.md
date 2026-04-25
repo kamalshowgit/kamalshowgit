@@ -31,9 +31,7 @@ Experience building real-world data systems and AI applications across finance a
 
 📫 Connect:
 
-[Portfolio](https://kamaliitkgp.pythonanywhere.com/) •  
-[LinkedIn](https://linkedin.com/in/kamalsonikgp) •  
-[Email](mailto:kamalsoni3839@gmail.com)
+[Portfolio](https://kamaliitkgp.pythonanywhere.com/) •  [LinkedIn](https://linkedin.com/in/kamalsonikgp) •  [Email](mailto:kamalsoni3839@gmail.com)
 
 ---
 
