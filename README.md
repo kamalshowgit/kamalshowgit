@@ -2,81 +2,103 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1500&pause=800&color=2F81F7&center=true&vCenter=true&width=600&lines=Data+Analyst;Machine+Learning+Engineer;IIT+Kharagpur+Graduate;Expert+in+SQL+%26+Python;BI+%26+Visualization+Specialist;Applied+NLP+%26+LLMs;Turning+Data+into+Insights)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1500&pause=800&color=2F81F7&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+ML+Engineer;SQL+%2B+Python+Expert;IIT+Kharagpur+Graduate;AI+%26+Automation+Solutions;Turning+Data+into+Business+Impact)
 
-
-**Turning Data into Insights | Building AI Solutions**
+**Data → Insights → Business Impact**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kamalsonikgp)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B35?style=for-the-badge&logo=firefox&logoColor=white)](https://kamaliitkgp.pythonanywhere.com/)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kamalsoni3839@gmail.com)
+[![Email](https://img.shields.io/badge/-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kamalsoni3839@gmail.com)
 
 </div>
 
 ---
 
-## About Me  
+## 🚀 What I Do  
 
-Hi, I’m Kamal 👋. I completed my **M.Tech from IIT Kharagpur** and I’m currently working as a **Data Analyst at HSBC**.  
-My work mainly focuses on **Marketing Analytics, Financial Risk Modeling, and Machine Learning**. I love working with **Python, SQL, BI tools, and AI frameworks** to turn raw data into meaningful insights.  
-Along the way, I’ve been fortunate to achieve things like winning a **global Kaggle competition** and driving a **20% uplift in marketing conversion rates**.  
+I help businesses **analyze data, build ML models, and automate workflows** to drive better decisions.
+
+✔ Clean and structure messy data  
+✔ Build dashboards & visualizations  
+✔ Develop predictive ML models  
+✔ Automate insights using AI & SQL  
+✔ Build end-to-end data-driven applications  
 
 ---
 
-## Portfolio  
+## 💼 Experience  
 
-<div align="center">
+- **Data Analyst @ HSBC**  
+  → Marketing analytics & campaign optimization  
+  → Financial risk modeling  
+  → CRM data insights  
 
-### Data Science & Machine Learning  
+- **IIT Kharagpur (M.Tech)**  
+
+---
+
+## 🔥 Featured Projects  
+
+### 🧠 Data Science & Machine Learning  
 
 | Project | Description |
-|---------|-------------|
-| <img src="https://img.icons8.com/ios-filled/20/ffffff/artificial-intelligence.png" alt="AI"/> [**tableAI**](https://github.com/kamalshowgit/tableAI) | AI-powered data handling & automation framework |
-| <img src="https://img.icons8.com/ios-filled/20/ffffff/combo-chart.png" alt="Finance"/> [**Bankruptcy Prediction**](https://github.com/kamalshowgit/kagglecomp) | ML models for financial risk prediction |
-| <img src="https://img.icons8.com/ios-filled/20/ffffff/inspection.png" alt="Anomaly"/> [**Anomaly Detection**](https://github.com/kamalshowgit/anomaly-detection) | Framework for outlier and fraud detection |
+|--------|-------------|
+| **[OraAI](https://github.com/kamalshowgit/OraAI)** | AI-powered tool converting natural language into SQL queries for automated data insights |
+| **[anomaly-detection](https://github.com/kamalshowgit/anomaly-detection)** | Fraud & anomaly detection using statistical and machine learning techniques |
+| **[face-detection-recognition](https://github.com/kamalshowgit/face-detection-recognition)** | Computer vision system for face detection and recognition |
 
+---
 
-### AI & Full-Stack Applications  
+### 🤖 AI & Applications  
 
 | Project | Description |
-|---------|-------------|
-| <img src="https://img.icons8.com/ios-filled/20/ffffff/resume.png" alt="Resume"/> [**Resume Checker AI**](https://github.com/kamalshowgit/resume-checker-next) | AI-powered resume analyzer with payment model |
-| <img src="https://img.icons8.com/ios-filled/20/ffffff/chat.png" alt="Chat"/> [**iAmChat**](https://github.com/kamalshowgit/iAmChat) | Conversational AI chatbot with LLM integration |
-| <img src="https://img.icons8.com/ios-filled/20/ffffff/tv.png" alt="TV"/> [**TV Channels App**](https://github.com/kamalshowgit/tv-channels) | React Native app for live Indian TV channels |
-
-</div>
+|--------|-------------|
+| **[resume-checker-next](https://github.com/kamalshowgit/resume-checker-next)** | AI-powered resume analyzer with scoring and feedback system |
+| **[iAmChat](https://github.com/kamalshowgit/iAmChat)** | Conversational AI chatbot with contextual responses |
+| **[iptv-streaming-app](https://github.com/kamalshowgit/iptv-streaming-app)** | Mobile app for live TV streaming with smooth user experience |
 
 ---
 
-## Education  
+### 📊 Data & Analytics  
 
-- <img src="https://img.icons8.com/ios-filled/20/ffffff/graduation-cap.png"/> **IIT Kharagpur** – M.Tech in Infrastructure Management (2024)  
-- <img src="https://img.icons8.com/ios-filled/20/ffffff/university.png"/> **VGEC Ahmedabad** – B.E. in Civil Engineering (2021)  
-
----
-
-## Certifications  
-
-- <img src="https://img.icons8.com/ios-filled/20/ffffff/certificate.png"/> CS50’s Introduction to Computer Science – Harvard University  
-- <img src="https://img.icons8.com/ios-filled/20/ffffff/certificate.png"/> Python for Data Science – IIT Madras (NPTEL)  
-- <img src="https://img.icons8.com/ios-filled/20/ffffff/certificate.png"/> SEBI Certified Securities Market Investor – NISM, India  
+| Project | Description |
+|--------|-------------|
+| **[Power-BI-Projects](https://github.com/kamalshowgit/Power-BI-Projects)** | Interactive dashboards and visualizations for business insights |
+| **[amazon-web-scraping-tool](https://github.com/kamalshowgit/amazon-web-scraping-tool)** | Automated web scraping tool for structured data extraction |
 
 ---
 
-## Tech Stack  
+## 🛠️ Tech Stack  
 
-**Core Data:** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge) ![SQL](https://img.shields.io/badge/-SQL-4169E1?logo=sql&logoColor=white&style=for-the-badge) ![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?logo=apachespark&logoColor=white&style=for-the-badge) ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoftexcel&logoColor=white&style=for-the-badge) ![SAS](https://img.shields.io/badge/-SAS-0066CC?logo=sas&logoColor=white&style=for-the-badge)  
+**Data & Analytics:**  
+Python • SQL • Pandas • PySpark • Excel  
 
-**Machine Learning & AI:** ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge) ![XGBoost](https://img.shields.io/badge/-XGBoost-FF6600?logoColor=white&style=for-the-badge) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge) ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=for-the-badge) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)  
+**Machine Learning:**  
+Scikit-learn • XGBoost • TensorFlow • PyTorch  
 
-**Visualization & BI:** ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge) ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=for-the-badge) ![Looker](https://img.shields.io/badge/-Looker-4285F4?logo=looker&logoColor=white&style=for-the-badge) ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?logo=plotly&logoColor=white&style=for-the-badge) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-013243?style=for-the-badge) ![Seaborn](https://img.shields.io/badge/-Seaborn-9C27B0?style=for-the-badge)  
+**Visualization:**  
+Power BI • Tableau • Plotly  
+
+**Tools & Systems:**  
+Docker • MLflow • APIs • AWS  
 
 ---
 
-## GitHub Stats  
+## 🎯 Why Work With Me  
 
-<div align="center">
+- Strong **business + technical understanding**  
+- Experience with **real-world data (HSBC)**  
+- Focus on **results, not just code**  
+- Ability to build **end-to-end solutions**  
 
-![Profile Views](https://komarev.com/ghpvc/?username=kamalshowgit&color=2F81F7&style=flat-square&label=Profile+Views)
+---
 
-</div>
+## 📬 Let’s Work Together  
+
+If you need help with:
+- Data analysis  
+- Machine learning  
+- Automation  
+- AI-powered tools  
+
+👉 Reach out — I’m open to freelance projects  
