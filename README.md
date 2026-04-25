@@ -38,6 +38,7 @@ Experience building real-world data systems and AI applications across finance a
 📌 Selected Work:
 
 • [OraAI](https://github.com/kamalshowgit/OraAI) — Converts natural language into SQL to automate data analysis and reduce manual querying time  
+
 • [resume-checker-next](https://github.com/kamalshowgit/resume-checker-next) — AI-powered resume analysis with actionable feedback and job-aligned improvement suggestions  
 
 • [anomaly-detection](https://github.com/kamalshowgit/anomaly-detection) — Detects fraud and outliers using machine learning to improve risk monitoring  
