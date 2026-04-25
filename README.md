@@ -2,65 +2,39 @@
 
 <div align="center">
 
-### Data Analyst · ML Engineer  
-**Python · SQL · AI Solutions**
+**Data Analyst · ML Engineer**  
+Python · SQL · AI  
 
-[LinkedIn](https://linkedin.com/in/kamalsonikgp) · 
-[Portfolio](https://kamaliitkgp.pythonanywhere.com/) · 
-[Email](mailto:kamalsoni3839@gmail.com)
+🔗 [LinkedIn](https://linkedin.com/in/kamalsonikgp) · 
+🌐 [Portfolio](https://kamaliitkgp.pythonanywhere.com/) · 
+✉️ [Email](mailto:kamalsoni3839@gmail.com)
 
 </div>
 
 ---
 
-## About
+**HSBC · IIT Kharagpur**
 
-Data Analyst at **HSBC** with a background from **IIT Kharagpur**.  
-I work on turning raw data into meaningful insights and building AI-driven solutions.
-
----
-
-## Work
-
-- Data analysis & dashboards  
-- Machine learning models  
-- Data automation (SQL + Python)  
-- AI-powered applications  
+Turning data into insights and building AI-driven solutions.
 
 ---
 
-## Selected Projects
-
-**OraAI**  
-AI tool that converts natural language into SQL for automated data analysis  
-https://github.com/kamalshowgit/OraAI  
-
-**resume-checker-next**  
-AI-based resume analyzer with scoring and feedback  
-https://github.com/kamalshowgit/resume-checker-next  
-
-**anomaly-detection**  
-Fraud and anomaly detection using statistical and ML methods  
-https://github.com/kamalshowgit/anomaly-detection  
-
-**iAmChat**  
-Conversational AI chatbot with contextual responses  
-https://github.com/kamalshowgit/iAmChat  
-
-**Power-BI-Projects**  
-Interactive dashboards for business insights  
-https://github.com/kamalshowgit/Power-BI-Projects  
+### Work
+• Data & dashboards  
+• Machine learning  
+• Automation (SQL + Python)  
+• AI applications  
 
 ---
 
-## Stack
+### Projects
 
-Python · SQL · Pandas · Machine Learning  
-Power BI · Tableau · APIs · AWS  
+🔹 [OraAI](https://github.com/kamalshowgit/OraAI)  
+🔹 [resume-checker-next](https://github.com/kamalshowgit/resume-checker-next)  
+🔹 [anomaly-detection](https://github.com/kamalshowgit/anomaly-detection)  
+🔹 [iAmChat](https://github.com/kamalshowgit/iAmChat)  
+🔹 [Power-BI-Projects](https://github.com/kamalshowgit/Power-BI-Projects)  
 
 ---
 
-## Contact
-
-Open to freelance work in data, ML, and AI.  
-Reach out via email or LinkedIn.
+Python · SQL · ML · Power BI · APIs · AWS
