@@ -2,39 +2,57 @@
 
 <div align="center">
 
-**Data Analyst · ML Engineer**  
-Python · SQL · AI  
+### Data Analyst · ML Engineer  
+<sub>Python · SQL · AI Solutions</sub>
 
-🔗 [LinkedIn](https://linkedin.com/in/kamalsonikgp) · 
-🌐 [Portfolio](https://kamaliitkgp.pythonanywhere.com/) · 
-✉️ [Email](mailto:kamalsoni3839@gmail.com)
+<br>
+
+🔗 <a href="https://linkedin.com/in/kamalsonikgp">LinkedIn</a>  
+🌐 <a href="https://kamaliitkgp.pythonanywhere.com/">Portfolio</a>  
+✉️ <a href="mailto:kamalsoni3839@gmail.com">Hire Me</a>
 
 </div>
 
----
+<br>
 
-**HSBC · IIT Kharagpur**
+### <sub>HSBC · IIT Kharagpur</sub>
 
-Turning data into insights and building AI-driven solutions.
+<sub>Turning raw data into insights and building AI-driven systems</sub>
 
----
+<br>
 
 ### Work
-• Data & dashboards  
-• Machine learning  
-• Automation (SQL + Python)  
-• AI applications  
 
----
+<sub>
+Data analysis · Dashboards · Machine learning · Automation · AI applications  
+</sub>
 
-### Projects
+<br>
 
-🔹 [OraAI](https://github.com/kamalshowgit/OraAI)  
-🔹 [resume-checker-next](https://github.com/kamalshowgit/resume-checker-next)  
-🔹 [anomaly-detection](https://github.com/kamalshowgit/anomaly-detection)  
-🔹 [iAmChat](https://github.com/kamalshowgit/iAmChat)  
-🔹 [Power-BI-Projects](https://github.com/kamalshowgit/Power-BI-Projects)  
+### Selected Projects
 
----
+<sub>
 
-Python · SQL · ML · Power BI · APIs · AWS
+🔹 <a href="https://github.com/kamalshowgit/OraAI">OraAI</a> — Natural language → SQL  
+
+🔹 <a href="https://github.com/kamalshowgit/resume-checker-next">resume-checker-next</a> — AI resume analysis  
+
+🔹 <a href="https://github.com/kamalshowgit/anomaly-detection">anomaly-detection</a> — Fraud detection  
+
+🔹 <a href="https://github.com/kamalshowgit/iAmChat">iAmChat</a> — AI chatbot  
+
+🔹 <a href="https://github.com/kamalshowgit/Power-BI-Projects">Power BI Projects</a> — Dashboards  
+
+</sub>
+
+<br>
+
+### Stack
+
+<sub>
+Python · SQL · Pandas · Machine Learning · Power BI · APIs · AWS  
+</sub>
+
+<br>
+
+<sub>Open to freelance work · Data · ML · AI</sub>
