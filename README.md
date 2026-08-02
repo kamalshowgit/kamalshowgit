@@ -1,5 +1,5 @@
 # Hello ! I'm Kamal Soni 👋  
-Data Analyst @ HSBC | ML Engineer | AI & Data Solutions  
+Analyst @ Citi | ML Engineer | AI & Data Solutions  
 
 I build data-driven systems that turn raw data into actionable insights.  
 My work focuses on analytics, machine learning, and AI-powered automation—helping businesses make smarter decisions.
